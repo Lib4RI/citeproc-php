@@ -1698,7 +1698,7 @@ class csl_mapper {
                                 'archive_location' => 'authority',
                                 'event' => 'event',
                                 'event-place' => 'event-place',
-                                "event-date' => 'event-date',
+                                'event-date' => 'event-date',
                                 'page' => 'page',
                                 'page-first' => 'page',
                                 'locator' => 'locator',
