@@ -1685,6 +1685,7 @@ class csl_mapper {
     if (!isset($this->field_map)) {
       $this->field_map = array('title' => 'title',
                                 'container-title' => 'container-title',
+                                'container-title-short' => 'container-title-short',
                                 'collection-title' => 'collection-title',
                                 'original-title' => 'original-title',
                                 'publisher' => 'publisher',
@@ -1697,6 +1698,7 @@ class csl_mapper {
                                 'archive_location' => 'authority',
                                 'event' => 'event',
                                 'event-place' => 'event-place',
+                                "event-date' => 'event-date',
                                 'page' => 'page',
                                 'page-first' => 'page',
                                 'locator' => 'locator',
